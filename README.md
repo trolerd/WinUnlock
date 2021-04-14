@@ -2,7 +2,7 @@
 Creates or resets windows admin accounts
 did ya momr
 
-###**stepr 1!**
+### **stepr 1!**
 create windows installation usb
 
 ###**stp 2:**
