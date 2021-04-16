@@ -17,6 +17,7 @@ click repair this pc in bottom left and navigate to command prompt
 ### **p 5}**
 in cmd prompt type following:
 E:
+
 WinUnlock(VersionHere).bat
 
 ### **sTEP SEX@**
