@@ -19,7 +19,7 @@ in cmd prompt type following:
 
 E:
 
-WinUnlock(VersionHere).bat
+WULock(VersionHere).bat
 
 ### **sTEP SEX@**
 follow prompts and then once finished shut down and restart
