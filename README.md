@@ -1,33 +1,33 @@
 # WinUnlock
 ## Creates or resets windows admin accounts
-> did ya momr
+>h
 
-### **stepr 1!**
+### **step 1**
 create windows installation usb
 
-### **stp 2:**
+### **step 2**
 download and put the winunlock file into the usb
 
-### **stap 3;**
+### **step 3**
 plug in usb and boot to it
 
-### **tp for'**
+### **step 4**
 click repair this pc in bottom left and navigate to command prompt
 
-### **p 5}**
+### **step 5**
 in cmd prompt type following:
 
 E:
 
 WULock(VersionHere).bat
 
-### **sTEP SEX@**
+### **step 6**
 follow prompts and then once finished shut down and restart
 unplug usb once pc is turned off
 
-### **stop 7/**
+### **step 7**
 turn pc on and wait for cmd window to open
 follow prompts
 
-### **starp eigt|***
-finishefd!1111111111111
+### **step 8***
+login with either your new account or the windows administrator account
